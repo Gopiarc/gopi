@@ -18,6 +18,5 @@ public static void main(String[] args) {
 	String text = al.getText();
 	System.out.println(text);
 	al.accept();
-	
 }
 }
